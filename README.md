@@ -1,2 +1,5 @@
-# Simple-Code-Projects
-This repository contains simple code and projects that I was working on and I don't consider as main or important projects. Just small side projects or code snippets.
+Jose Echeverria Martinez // 9/13/2026
+
+Coding Project
+
+Calculator APP, completely functional
